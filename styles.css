@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5e9654;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+nav ul {
+    list-style-type: none;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.hero {
+    text-align: center;
+    padding: 40px;
+}
+.hero img {
+    max-width: 100%;
+    width: 350px;
+    height: 250px;
+}
+.hero h1 {
+    font-size: 2em;
+}
+.cta-button {
+    background-color: #5e9654;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.offerings {
+    display: flex;
+    justify-content: space-around;
+}
+.offering {
+    text-align: center;
+    padding: 20px;
+}
+.offering img {
+    max-width: 100%;
+    width: 150px;
+    height: 150px;
+}
+.service img {
+    max-width: 100%;
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+}
+/* Footer styles */
+footer {
+    background-color: #5e9654;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
